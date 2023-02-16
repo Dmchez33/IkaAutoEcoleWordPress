@@ -1,0 +1,397 @@
+# Translation of Plugins - GA Google Analytics - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - GA Google Analytics - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-08 06:15:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - GA Google Analytics - Stable (latest release)\n"
+
+#: ga-google-analytics.php:351
+msgid "(for Google Tag Manager), which is not supported. Please try again with a supported tracking code."
+msgstr "(pour Google Tag Manager), qui n’est pas pris en charge. Veuillez réessayer avec un code de suivi compatible."
+
+#: ga-google-analytics.php:135
+msgid "Get GA Pro!"
+msgstr "Obtenez GA PRO !"
+
+#: ga-google-analytics.php:136
+msgid "Go&nbsp;Pro"
+msgstr "Passer à PRO"
+
+#: ga-google-analytics.php:155
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: inc/settings-display.php:53
+msgid "Check out the"
+msgstr "Vérifier le/la"
+
+#: inc/settings-display.php:54 inc/settings-display.php:247
+msgid "GA Google Analytics Pro"
+msgstr "GA Google Analytics PRO"
+
+#: inc/settings-display.php:54
+msgid "PRO Version"
+msgstr "Version PRO"
+
+#: inc/settings-display.php:203
+msgid "multiple trackers"
+msgstr "suivis multiples"
+
+#: inc/settings-display.php:205
+msgid "user opt-out"
+msgstr "désactivation de l’utilisateur"
+
+#: inc/settings-display.php:244
+msgid "More Options"
+msgstr "Plus d’options"
+
+#: inc/settings-display.php:246
+msgid "For advanced features, check out"
+msgstr "Pour les fonctionnalités avancées, consultez"
+
+#: inc/settings-display.php:206
+msgid "Note: you can use"
+msgstr "Note : vous pouvez utiliser"
+
+#: inc/settings-display.php:177
+msgid "Tracking Code Location"
+msgstr "Localisation du code de suivi"
+
+#: inc/settings-display.php:212
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+#: inc/settings-display.php:222
+msgid "Custom Code Location"
+msgstr "Emplacement du code personnalisé"
+
+#: inc/settings-display.php:225
+msgid "Display Custom Code"
+msgstr "Afficher le code personnalisé"
+
+#: inc/settings-display.php:204 inc/settings-display.php:206
+msgid "and"
+msgstr "et"
+
+#: inc/support-panel.php:55
+msgid "donation"
+msgstr "don"
+
+#: inc/settings-display.php:226
+msgid "after"
+msgstr "après"
+
+#: inc/settings-display.php:225
+msgid "before"
+msgstr "avant"
+
+#: inc/settings-display.php:98
+msgid "Google Analytics account"
+msgstr "Compte Google Analytics"
+
+#: inc/support-panel.php:59
+msgid "or"
+msgstr "ou"
+
+#. Plugin Name of the plugin
+#: ga-google-analytics.php:67 ga-google-analytics.php:85
+msgid "GA Google Analytics"
+msgstr "GA Google Analytics"
+
+#: ga-google-analytics.php:86 inc/settings-display.php:31
+#: inc/support-panel.php:5
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ga-google-analytics.php:115
+msgid "Are you sure you want to restore all default options?"
+msgstr "Confirmez-vous la restauration de toutes les options par défaut ?"
+
+#: ga-google-analytics.php:126
+msgid "Settings"
+msgstr "Réglages"
+
+#: ga-google-analytics.php:154 inc/settings-display.php:38
+#: inc/settings-display.php:292
+msgid "Plugin Homepage"
+msgstr "Page d’accueil de cette extension"
+
+#: ga-google-analytics.php:160
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "Cliquer ici pour noter et commenter cette extension sur WordPress.org"
+
+#: ga-google-analytics.php:161
+msgid "Rate this plugin"
+msgstr "Noter l’extension"
+
+#: ga-google-analytics.php:205
+msgid "requires WordPress "
+msgstr "nécessite WordPress "
+
+#: ga-google-analytics.php:207
+msgid "Please return to the"
+msgstr "Merci de retourner dans"
+
+#: ga-google-analytics.php:208
+msgid "WP Admin Area"
+msgstr "Zone d’administration"
+
+#: ga-google-analytics.php:208
+msgid "to upgrade WordPress and try again."
+msgstr "mettre à niveau WordPress et réessayer."
+
+#: ga-google-analytics.php:268
+msgid "Default options restored."
+msgstr "Options par défaut restaurées."
+
+#: ga-google-analytics.php:272
+msgid "No changes made to options."
+msgstr "Aucune modification n’est apportée aux options."
+
+#: ga-google-analytics.php:304 ga-google-analytics.php:310
+msgid "Cheatin&rsquo; huh?"
+msgstr "Alors on triche ?"
+
+#: ga-google-analytics.php:397 ga-google-analytics.php:400
+#: ga-google-analytics.php:439
+msgid ")"
+msgstr ")"
+
+#: ga-google-analytics.php:422 inc/settings-display.php:88
+msgid "Universal Analytics"
+msgstr "Statistiques universelles"
+
+#: ga-google-analytics.php:424
+msgid "Legacy"
+msgstr "Héritage"
+
+#: ga-google-analytics.php:435
+msgid "(default)"
+msgstr "(par défaut)"
+
+#: inc/settings-display.php:9
+msgid "Toggle all panels"
+msgstr "Ouvrir/fermer tous les panneaux"
+
+#: inc/settings-display.php:21
+msgid "Overview"
+msgstr "Vue d’ensemble"
+
+#: inc/settings-display.php:36 inc/settings-display.php:67
+msgid "How to Use"
+msgstr "Guide d’utilisation"
+
+#: inc/settings-display.php:37 inc/settings-display.php:112
+msgid "Plugin Settings"
+msgstr "Réglages de l’extension"
+
+#: inc/settings-display.php:42
+msgid "If you like this plugin, please"
+msgstr "Si vous aimez cette extension, veuillez"
+
+#: inc/settings-display.php:44
+msgid "give it a 5-star rating"
+msgstr "donnez-lui une note de 5 étoiles"
+
+#: inc/settings-display.php:79
+msgid "How to use this plugin:"
+msgstr "Comment utiliser cette extension :"
+
+#: inc/settings-display.php:85
+msgid "Choose either"
+msgstr "Choisir l’un ou l’autre"
+
+#: inc/settings-display.php:90
+msgid "Configure any other plugin settings as desired (optional)"
+msgstr "Configurer tous les autres réglages de l’extension comme vous le souhaitez (facultatif)"
+
+#: inc/settings-display.php:93
+msgid "Save changes and done. After 24-48 hours, you can log into your Google Analytics account to view your stats."
+msgstr "Enregistrer les modifications et c’est terminé. Après 24 à 48 heures, vous pouvez vous connecter à votre compte Google Analytics pour afficher vos statistiques."
+
+#: inc/settings-display.php:97
+msgid "Note that it can take 24-48 hours after adding the tracking code before any analytical data appears in your"
+msgstr "Notez qu’il peut s’écouler 24 à 48 heures après l’ajout du code de suivi avant que des données analytiques n’apparaissent dans votre"
+
+#: inc/settings-display.php:99
+msgid "To check that the GA tacking code is included, look at the source code of your web page(s). Learn more at the"
+msgstr "Pour vérifier que le code de suivi GA est inclus, consultez le code source de vos pages Web. En savoir plus sur le"
+
+#: inc/settings-display.php:100
+msgid "Google Analytics Help Center"
+msgstr "Centre d’aide Google Analytics"
+
+#: inc/settings-display.php:120
+msgid "GA Tracking ID"
+msgstr "ID de suivi GA"
+
+#: inc/settings-display.php:131
+msgid "Tracking Method"
+msgstr "Méthode de Suivi"
+
+#: inc/settings-display.php:140 inc/settings-display.php:144
+msgid "Display Advertising"
+msgstr "Affichage publicitaire"
+
+#: inc/settings-display.php:143 inc/settings-display.php:151
+#: inc/settings-display.php:159 inc/settings-display.php:167
+msgid "Enable support for"
+msgstr "Activer la prise en charge pour"
+
+#: inc/settings-display.php:148
+msgid "Link Attribution"
+msgstr "Attribution de lien"
+
+#: inc/settings-display.php:152
+msgid "Enhanced Link Attribution"
+msgstr "Améliorer les liens d’attributions"
+
+#: inc/settings-display.php:156 inc/settings-display.php:160
+msgid "IP Anonymization"
+msgstr "Anonymisation IP"
+
+#: inc/settings-display.php:164 inc/settings-display.php:168
+msgid "Force SSL"
+msgstr "Forcer le SSL"
+
+#: inc/settings-display.php:181
+msgid "Tip: Google recommends including the tracking code in the page head, but including it in the footer can benefit page performance."
+msgstr "Astuce : Google recommande d’inclure le code de suivi dans l’en-tête de la page, mais l’inclure dans le pied de page peut améliorer les performances de la page."
+
+#: inc/settings-display.php:182
+msgid "If in doubt, go with the head option."
+msgstr "En cas de doute, utiliser l’option en-tête."
+
+#: inc/settings-display.php:187
+msgid "Custom Tracker Objects"
+msgstr "Suivi d’objets personnalisé"
+
+#: inc/settings-display.php:198
+msgid "Custom GA Code"
+msgstr "Code GA personnalisé"
+
+#: inc/settings-display.php:226
+msgid "the GA tracking code (leave unchecked to display"
+msgstr "le code de suivi GA (laissez décoché pour afficher"
+
+#: inc/settings-display.php:226
+msgid "the tracking code)"
+msgstr "le code de suivi)"
+
+#: inc/settings-display.php:230
+msgid "Admin Area"
+msgstr "Zone d’administration"
+
+#: inc/settings-display.php:237
+msgid "Admin Users"
+msgstr "Utilisateurs administrateurs"
+
+#: inc/settings-display.php:240
+msgid "Disable tracking of Admin-level users"
+msgstr "Désactiver le suivi des utilisateurs de niveau administrateur"
+
+#: inc/settings-display.php:254
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: inc/settings-display.php:262
+msgid "Restore Defaults"
+msgstr "Rétablir les réglages par défaut"
+
+#: inc/settings-display.php:266
+msgid "Click the link to restore the default plugin options."
+msgstr "Cliquer sur le lien pour restaurer les options de l’extension par défaut."
+
+#: inc/settings-display.php:276
+msgid "Show Support"
+msgstr "Afficher le support"
+
+#: inc/settings-display.php:293
+msgid "by"
+msgstr "par"
+
+#: inc/settings-display.php:294
+msgid "Jeff Starr on Twitter"
+msgstr "Jeff Starr sur Twitter"
+
+#: inc/settings-display.php:295
+msgid "@"
+msgstr "@"
+
+#: inc/settings-display.php:296
+msgid "Obsessive Web Development"
+msgstr "Obsessive Web Development"
+
+#: inc/support-panel.php:49
+msgid "Perishable Press Books"
+msgstr "Livres de presse Perishable"
+
+#: inc/support-panel.php:50
+msgid "Plugin Planet"
+msgstr "Extension Planet"
+
+#: inc/support-panel.php:51
+msgid "Donate via PayPal"
+msgstr "Faites un don via PayPal"
+
+#: inc/support-panel.php:53
+msgid "books"
+msgstr "livres"
+
+#: inc/support-panel.php:54
+msgid "plugins"
+msgstr "extensions"
+
+#: inc/support-panel.php:57
+msgid "Thank you for using"
+msgstr "Merci d’avoir choisi"
+
+#: inc/support-panel.php:58
+msgid "Please show support by purchasing one of my"
+msgstr "Veuillez montrer votre soutien en achetant l’un de mes"
+
+#: inc/support-panel.php:59
+msgid "or by making a"
+msgstr "ou en faisant un"
+
+#: inc/support-panel.php:60
+msgid "Your generous support helps to ensure future development of"
+msgstr "Votre généreux soutien contribue à assurer le développement futur de"
+
+#: inc/support-panel.php:61
+msgid "and is greatly appreciated."
+msgstr "et est grandement apprécié."
+
+#: inc/support-panel.php:63
+msgid "Any size donation helps me to continue developing this free plugin and other awesome WordPress resources."
+msgstr "Un don de toute taille m’aide à continuer à développer l’extension gratuite et d’autres ressources WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://perishablepress.com/google-analytics-plugin/"
+msgstr "https://perishablepress.com/google-analytics-plugin/"
+
+#. Description of the plugin
+msgid "Adds your Google Analytics Tracking Code to your WordPress site."
+msgstr "Ajoute votre code de suivi Google Analytics à votre site WordPress."
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr "Jeff Starr"
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+
+#: ga-google-analytics.php:506
+msgid "Restore default plugin options"
+msgstr "Rétablir les options par défaut de l’extension"
+
+#: ga-google-analytics.php:443
+msgid "(deprecated)"
+msgstr "(obsolète)"
